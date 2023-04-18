@@ -1,0 +1,13 @@
+Azure VM - Problem statement
+You are a cloud architect working in the Research and Development (R&D) Team of a product-based company. Your team wants to analyze a large amount of data to help with taking strategic decisions and improving business. To enable this, a Virtual Machine installed with a MySQL server is required. Your manager asks you to create a Virtual Machine with the following parameters. i) Virtual Machine: Region: (US) East US, Availability Zones: No infrastructure redundancy required, Image: Ubuntu Server 18.04 LTS, Size: B2ms, OS disk type: Standard HDD (Connect with VM to your local machine through the SSH connection and make sure that you can able to access it). ii) Attach a new data disk to the Linux VM: Storage type: Standard HDD, Size (GiB): 64 with disk Partition and mount the disk. iii) Install the mysql-server package: sudo apt-get update; sudo apt-get install mysql-server.
+
+Note
+Use the credentials given in the hands-on to log in to the Azure Portal.
+Create a new resource group and use the same resource group for all resources.
+The Username/Password/Services Name can be as per your choice.
+After completing the hands-on, delete all the resources created.
+
+Username
+Sapna_1681817986126@nptcsazurebasic.onmicrosoft.com
+Password
+2730e0-8aeF67@
