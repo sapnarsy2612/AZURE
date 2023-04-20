@@ -1,0 +1,12 @@
+Problem statement
+Create a Virtual Machine with the following configurations,
+
+Region: (US) East US
+Availability options: No infrastructure redundancy required
+Security type: Standard
+Image: Ubuntu Server 20.04 LTS - Gen2
+Size: Standard_B2ms
+Authentication type: SSH public key
+SSH public key source: Generate new key pair
+OS disk type: Standard HDD
+Inbound rule: Allow HTTP and 8080 Port
